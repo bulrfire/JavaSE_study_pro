@@ -5,7 +5,7 @@ import java.util.Random;
 public class Test2 {
     public static void main(String[] args) {
         //目标：完成生成随机验证码
-        System.out.println(creatCode(8));
+        System.out.println(creatCode(1000));
     }
 
     public static String creatCode(int number){
