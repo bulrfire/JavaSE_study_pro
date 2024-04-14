@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/study_app_day04_array/study_app_day04_array.iml" filepath="$PROJECT_DIR$/study_app_day04_array/study_app_day04_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/study_app_day05-method/study_app_day05-method.iml" filepath="$PROJECT_DIR$/study_app_day05-method/study_app_day05-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/study_app_day06-case-exercise/study_app_day06-case-exercise.iml" filepath="$PROJECT_DIR$/study_app_day06-case-exercise/study_app_day06-case-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_app_day07_oop/study_app_day07_oop.iml" filepath="$PROJECT_DIR$/study_app_day07_oop/study_app_day07_oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_app_day08_api/study_app_day08_api.iml" filepath="$PROJECT_DIR$/study_app_day08_api/study_app_day08_api.iml" />
     </modules>
   </component>
 </project>
